@@ -1,7 +1,7 @@
-# Nombre del Proyecto
 
-## Descripción
-Este es un juego desarrollado en Unity llamado "Pong". Es un juego clásico donde dos jugadores controlan palas para golpear una pelota. El objetivo es marcar más puntos que el oponente.
+
+Descripción
+"Pong" es un juego clásico y sencillo donde dos jugadores controlan palas para golpear una pelota. El objetivo es lograr sacar 5 puntos antes que el oponente.
 
 ## Características
 - Dos jugadores
